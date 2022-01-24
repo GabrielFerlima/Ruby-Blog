@@ -1,24 +1,4 @@
-# README
+Primeiro projeto feito em Ruby para BackEnd 
+Simula um pequeno blog onde você pode criar os seus artigos além de deixar comentários.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Captura de tela de 2022-01-24 13-43-37](https://user-images.githubusercontent.com/90075318/150827958-5af974be-10df-46a5-a432-19a44341b17d.png)
